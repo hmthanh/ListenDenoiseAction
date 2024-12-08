@@ -1,2 +1,5 @@
 results/*
 **/__pycache__
+*.ckpt
+*.idea
+.DS_Store
